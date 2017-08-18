@@ -8,7 +8,7 @@ Dependencies:
 Install:
 * Clone this repository or download the [EditNC.xml](https://github.com/patkub/npp-gcode/blob/master/EditNC.xml) file.
 * In Notepad++, open the "Language" -> "Define Your Language..." dialog.
-* Click the Import... button and browse for the EditNC.xml file. If you see "Import successful.", then the EditNC language is installed.
+* Click the "Import..." button and browse for the EditNC.xml file. If you see "Import successful.", then the EditNC language is installed.
 
 Usage:
 * Open an `.nc` file.
