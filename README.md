@@ -2,6 +2,8 @@
 
 > Edgecam EditNC G-code (RS-274) syntax highlighting for Nodepad++.
 
+![Sample Image](https://github.com/patkub/npp-gcode/blob/master/sample.png)
+
 Dependencies:
 * Notepad++ >= 6.0.0
 
